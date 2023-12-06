@@ -1,0 +1,11 @@
+.showcount{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.showcount div{
+    flex-basis: 100px;
+}
+.showcount div p{
+    font-size: 60px;
+}
